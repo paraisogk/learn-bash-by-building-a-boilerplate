@@ -52,3 +52,6 @@ __vsc_prompt_cmd_original
 echo Yay!
 echo I finished the boilerplate!
 echo one more thing...
+echo i made this boilerplate >> README.md
+echo i made this boilerplate README.md
+echo I made this boilerplate >> README.md
