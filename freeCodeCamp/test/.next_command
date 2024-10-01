@@ -51,3 +51,4 @@ ls --color=auto
 __vsc_prompt_cmd_original
 echo Yay!
 echo I finished the boilerplate!
+echo one more thing...
