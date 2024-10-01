@@ -42,3 +42,4 @@ find client/assets/fonts
 find
 rm --help
 rm -r ./fonts
+ls --color=auto
