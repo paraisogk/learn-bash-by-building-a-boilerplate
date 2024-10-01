@@ -142,3 +142,16 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git status
 git add freeCodeCamp toms-website website-boilerplate
+git status
+git commit -m "Learn Bash By Bulding a Boilerplate project submission"
+git push
+ls --color=auto
+cd .
+cd ..
+git push
+git status
+ls --color=auto
+cd project
+ls --color=auto
+git status
+git add --all
