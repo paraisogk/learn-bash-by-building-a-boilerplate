@@ -72,3 +72,5 @@ cp -r website-boilerplate toms-website
 find
 çs
 ls --color=auto
+find
+find toms-website
