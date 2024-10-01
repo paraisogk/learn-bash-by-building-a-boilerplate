@@ -46,3 +46,5 @@ ls --color=auto
 touch package.json
 touch server.js
 touch README.md
+__vsc_prompt_cmd_original
+ls --color=auto
