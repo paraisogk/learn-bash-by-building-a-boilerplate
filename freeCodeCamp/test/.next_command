@@ -41,3 +41,4 @@ touch client/assets/fonts/lato-light.ttf
 find client/assets/fonts
 find
 rm --help
+rm -r ./fonts
