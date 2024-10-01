@@ -24,3 +24,5 @@ rm ./images/background.jpg
 rmdir ./images/background.jpg
 rmdir ./images
 ls --color=auto
+mkdir icons client/assets
+mkdir client/assets/icons
