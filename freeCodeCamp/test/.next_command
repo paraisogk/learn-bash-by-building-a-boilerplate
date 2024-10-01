@@ -19,3 +19,5 @@ find -name footer.jpeg
 mv ./images/footer.jpeg client/assets/images
 find
 rmdir ./images
+rmdir ./images/background.jpg
+rm ./images/background.jpg
