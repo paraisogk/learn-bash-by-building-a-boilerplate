@@ -23,3 +23,4 @@ rmdir ./images/background.jpg
 rm ./images/background.jpg
 rmdir ./images/background.jpg
 rmdir ./images
+ls --color=auto
