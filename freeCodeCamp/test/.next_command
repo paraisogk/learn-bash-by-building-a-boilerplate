@@ -55,3 +55,5 @@ echo one more thing...
 echo i made this boilerplate >> README.md
 echo i made this boilerplate README.md
 echo I made this boilerplate >> README.md
+more README.MD
+more README.md
